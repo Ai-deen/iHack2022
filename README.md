@@ -15,7 +15,7 @@ The "iHack 2022" hackathon was organized by IIT Bhilai Innovation and Technology
 
 - [Lahari Sreeja]
 - [Dommati Rohith]
-- 
+
 ## Introduction
 
 For the "iHack 2022" Automatic Image Clustering Challenge, our team focused on creating an innovative solution to cluster images containing group or individual people based on the faces present within them.
@@ -46,4 +46,7 @@ This project showcases our team's proficiency in image processing, deep learning
 ## Acknowledgments
 
 I would like to express my gratitude to the organizers of "iHack 2022," IIT Bhilai, and Infineon Technologies for providing this exciting opportunity.
+
+## Achievements
+!Hackathon certificate[https://drive.google.com/file/d/1G-v2Q2djX60y4AmkfFE0irh4yP1JD8Q7/view]
 

@@ -47,5 +47,5 @@ This project showcases our team's proficiency in image processing, deep learning
 I would like to express my gratitude to the organizers of "iHack 2022," IIT Bhilai, and Infineon Technologies for providing this exciting opportunity.
 
 ## Achievements
-!Hackathon certificate[https://drive.google.com/file/d/1G-v2Q2djX60y4AmkfFE0irh4yP1JD8Q7/view]
+Hackathon certificate[https://drive.google.com/file/d/1G-v2Q2djX60y4AmkfFE0irh4yP1JD8Q7/view]
 
